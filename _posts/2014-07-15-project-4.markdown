@@ -1,12 +1,20 @@
 ---
+title: Gold Game Engine
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2015-01-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: January 2016
+client: Self
+category: Game Engine
 ---
+
+The Gold Game Engine is a 2D (3D planned ) game engine built with golang. This
+game engine focuses on building modern games as fast and easy as possible.
+It will support:
+  1. Support for easy and simple multi threaded and asynchronous user defined components
+  2. Simple Networking for p2p and client-server games
+  3. Game Editor with simple, familiar, and intuitive UX
+Estimated Alpha Release: May 22
+The Gold Game Engine is Open Source! Try it out [here]https://github.com/Dacode45/GoldEngine.

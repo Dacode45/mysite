@@ -1,12 +1,41 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2015-01-15
+img: igem.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: March 2015
+client: Washington University iGEM team
+category: Web Development - Big Data
 ---
+I've done biology research for a while now, and over the years I've noticed some problems.
+* The iteration time for experiments range from hours to months.
+* Designing an experiment that incorporates the most modern techniques is close to impossible
+* The cost, time, and material necessary to prepare an experiment is often larger than those required to perform the experiment.
+* Parts of an experiment cannot be automated, so an experiment is limited to the amount of man hours a researcher can dedicate.
+* Scientist have created a wealth of data on biological material too large to be taken advantage of due to the above.
+* Scientist have their own data, procedures, and notes archived in journals that are not
+accessible to those who may want to build on their research.
+
+My most recent researched involved participating in [iGEM]https://www.igem.org/Main_Page. Our
+project was to build a [diazotrophic E. coli]http://2015.igem.org/Team:WashU_StLouis.
+The science was simple, but carrying out the science while following the iGEM requirements
+took much more time than expected. I am building a tool to make biology research simple and easy for iGEM participants and researchers everywhere.
+
+Core Requirements
+* Desktop Application
+* Data Collection and Management System
+* Journaling System
+* Protocol Management
+* Node Editor for Processing Data
+* Simple way to plug data into any web api
+* Biobrick Service
+* Static Website Generation
+* Easy collaboration interface
+* Easy outreach interface
+* Finance management system
+* Materials archive
+* *iPhone App supporting as much of the above as possible.*
+
+I will be forking and extending my project [animoo-writer]https://github.com/Dacode45/animoowriter to
+support the above features. Alpha should be released June 1<sup>st</sup>.
