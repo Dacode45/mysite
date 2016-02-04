@@ -51,7 +51,7 @@ address:
   - line: St. Louis, MO 63130
 
 # Credits content
-credits:
+credits: Built using the <a href="https://github.com/jeromelachaud/freelancer-theme">freelancer</a> theme
 
 # Build settings
 markdown: kramdown

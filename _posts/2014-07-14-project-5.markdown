@@ -17,8 +17,8 @@ I've done biology research for a while now, and over the years I've noticed some
 * Scientist have their own data, procedures, and notes archived in journals that are not
 accessible to those who may want to build on their research.
 
-My most recent researched involved participating in [iGEM]https://www.igem.org/Main_Page. Our
-project was to build a [diazotrophic E. coli]http://2015.igem.org/Team:WashU_StLouis.
+My most recent researched involved participating in [iGEM](https://www.igem.org/Main_Page). Our
+project was to build a [diazotrophic E. coli](http://2015.igem.org/Team:WashU_StLouis).
 The science was simple, but carrying out the science while following the iGEM requirements
 took much more time than expected. I am building a tool to make biology research simple and easy for iGEM participants and researchers everywhere.
 
@@ -37,5 +37,5 @@ Core Requirements
 * Materials archive
 * *iPhone App supporting as much of the above as possible.*
 
-I will be forking and extending my project [animoo-writer]https://github.com/Dacode45/animoowriter to
+I will be forking and extending my project [animoo-writer](https://github.com/Dacode45/animoowriter) to
 support the above features. Alpha should be released June 1<sup>st</sup>.

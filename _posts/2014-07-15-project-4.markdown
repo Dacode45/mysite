@@ -17,4 +17,4 @@ It will support:
   2. Simple Networking for p2p and client-server games
   3. Game Editor with simple, familiar, and intuitive UX
 Estimated Alpha Release: May 22
-The Gold Game Engine is Open Source! Try it out [here]https://github.com/Dacode45/GoldEngine.
+The Gold Game Engine is Open Source! Try it out [here](https://github.com/Dacode45/GoldEngine).

@@ -16,13 +16,13 @@ to pick up a cup in front of them with their phantom arm. My project is to repli
 this phenomenon by having a person pick up a virtual cup with their physical arm.
 The only difference is that the virtual cup will actually be picked up.
 
-The project will have a person wearing an [Emotive EPOC]https://emotiv.com/ and
-an [Oculus Rift]https://www.oculus.com/en-us/ control a virtual avatar in a
+The project will have a person wearing an [Emotive EPOC](https://emotiv.com/) and
+an [Oculus Rift](https://www.oculus.com/en-us/) control a virtual avatar in a
 first person game built in Unity. The challenges to this problem are monumental.
 
-1 Synching thought with the VR environment is essential.
-2 Algorithms to translate thought to motion have not been created.
-3 Patterns of thought differ from person to person and day to day.
+1. Synching thought with the VR environment is essential.
+2. Algorithms to translate thought to motion have not been created.
+3. Patterns of thought differ from person to person and day to day.
 
 More details about tackling this problem will0 be posted to a blog.
 It involves Machine learning, Big Data, Cloud Computing, Computational Neuroscience,
