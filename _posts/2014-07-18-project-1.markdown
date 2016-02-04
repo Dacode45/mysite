@@ -2,11 +2,18 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: imac.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+client: Senior Project
+category: Video Hardware
+description:
 
 ---
+I've decided to take a senior design class my junior year. I will be designing
+and building a PCB that drives a VGA display from a USB. The PCB will use a
+Spartan 6 and FTDI Mini module. I'm planning on turning this relatively simple
+project into a blog about design considerations and what Computer Scientist
+should know about building something physical. Later in the semester, I will be
+extending the board to display video similar to old NES games possibly allowing
+it to drive video from an emulator. Contact me if you have suggestions!
